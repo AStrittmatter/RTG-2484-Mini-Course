@@ -23,6 +23,7 @@ install.packages("rms")
 install.packages("Rtools")
 devtools::install_github('MCKnaus/dmlmt')
 devtools::install_github('rich-iannone/DiagrammeR')
+1
 install.packages('data.table')
 install.packages('rvest')
 install.packages('httr')
