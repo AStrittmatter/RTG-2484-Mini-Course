@@ -5,3 +5,5 @@ libssl-dev
 libcurl4-openssl-dev
 libfreetype6-dev
 libxml2-dev
+libv8-dev
+libnode-dev
