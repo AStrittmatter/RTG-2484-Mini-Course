@@ -7,4 +7,5 @@ libfreetype6-dev
 libxml2-dev
 libv8-dev
 libgfortran-5-dev
+gfortran
 
