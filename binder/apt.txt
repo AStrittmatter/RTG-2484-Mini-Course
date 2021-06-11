@@ -8,4 +8,6 @@ libxml2-dev
 libv8-dev
 libgfortran-5-dev
 gfortran
+libgmp-dev 
+libglpk-dev
 
