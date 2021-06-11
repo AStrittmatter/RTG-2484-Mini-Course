@@ -10,4 +10,4 @@ libgfortran-5-dev
 gfortran
 libgmp-dev 
 libglpk-dev
-
+r-cran-igraph
